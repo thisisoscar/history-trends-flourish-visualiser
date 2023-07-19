@@ -1,2 +1,3 @@
-# history trends steamograph plotter
- 
+# history trends flourish visualiser
+
+Takes a file of exported History Trends Unlimited data and creates a pandas dataframe for the number of visits per domain per day. It copies it to the clipboard in a format acceptable by flourish.studio so you can easily paste it in. History Trends Unlimited is a chrome extension (https://chrome.google.com/webstore/detail/history-trends-unlimited/pnmchffiealhkdloeffcdnbgdnedheme).
